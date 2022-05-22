@@ -1,0 +1,4 @@
+C:\User Files\Учеба\4 семестр\Технология Программирования\ToP Lab 3\Debug\ToP Lab 3.exe
+C:\User Files\Учеба\4 семестр\Технология Программирования\ToP Lab 3\Debug\ToP Lab 3.pdb
+C:\Users\User\source\repos\ToP Lab 3\Debug\ToP Lab 3.exe
+C:\Users\david\source\repos\ToP Lab 3\Debug\ToP Lab 3.exe
